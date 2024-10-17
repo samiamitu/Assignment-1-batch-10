@@ -38,6 +38,7 @@ height: 650px;
 .button2{
     background-color: black;
     color: aliceblue;
+
     
     
 }
@@ -214,4 +215,10 @@ background-position: center;
     padding: 70px;
     display: flex;
     justify-content: space-between;
+    
+}
+.icons{
+    gap: 20px;
+    border: green 2px solis
+    ;
 }
