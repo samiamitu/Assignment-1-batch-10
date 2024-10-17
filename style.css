@@ -117,6 +117,7 @@ iframe {
     justify-content: center;
     gap: 24px;
     padding: 30px;
+    margin-bottom: 40px;
 }
 
 .html{
@@ -142,4 +143,23 @@ iframe {
 h3{
     border-bottom: 1px black solid;
     width: 90px;
+}
+#current_target{
+    width: 80%;
+    margin: auto;
+    
+    
+}
+.reactjs{
+    display: flex;
+    border: yellowgreen 2px solid;
+    gap: 24px;
+    padding: 30px;
+    border: 2px rgb(188, 186, 186) solid;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.react_image{
+    margin-top:50px;
+    
 }
